@@ -246,7 +246,6 @@ pylint
 pymdown-extensions==7.1
 PyMySQL==1.0.2
 PyNaCl
-pyodbc===4.0.0-unsupported
 pyOpenSSL
 pypar==0.0.2
 pyparsing==2.4.7
