@@ -84,7 +84,6 @@ emoji==1.7.0
 emot==2.1
 eng-to-ipa==0.0.2
 entrypoints==0.3
-es-core-news-md
 et-xmlfile==1.0.1
 fabric==2.6.0
 fastcache==1.1.0
