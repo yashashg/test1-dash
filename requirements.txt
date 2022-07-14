@@ -52,13 +52,6 @@ clyent
 colorama
 coloredlogs==10.0
 comtypes==1.1.7
-conda
-conda-build
-conda-content-trust
-conda-package-handling
-conda-repo-cli
-conda-token
-conda-verify
 constantly==15.1.0
 contextlib2==0.6.0.post1
 convert-html-to-dash==0.1.2
